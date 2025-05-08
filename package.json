@@ -1,0 +1,11 @@
+{
+  "name": "cicd-demo",
+  "version": "1.0.0",
+  "description": "A simple CI/CD demonstration project",
+  "main": "app.js",
+  "scripts": {
+    "test": "node test-runner.js"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
