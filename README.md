@@ -11,4 +11,4 @@ The project includes:
 
 1. When you push changes to the main branch, GitHub Actions automatically runs tests
 2. If tests pass, your site is automatically deployed to GitHub Pages
-3. Visit https://YOUR_USERNAME.github.io/CI-CD/ to see the live site
+3. Visit https://R-hab.github.io/CI-CD/ to see the live site
